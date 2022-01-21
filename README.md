@@ -1,4 +1,4 @@
-# Splunk - Beginner to Architect
+# Splunk
 
 ## Section 2: Introduction to Splunk & Setting Up Labs
 
